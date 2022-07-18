@@ -1,18 +1,15 @@
-Describe the best project you have worked on, including links if any.
+[]Question 4] Describe the best project you have worked on, including links if any.
 
 
 Hi I am a computer science graduate from CMR Institute of Technology, Bengaluru.
 
 I initially explored android development using flutter, data analysis but I found my passion for frontend developement and have built a number of projects using both VanillaJS and ReactJs
 
-I have built projects like Ecommerce store, quiz application, video library using reactJs
+## I have built projects like Ecommerce store, quiz application, video library using reactJs
 
 I would like to explain on the Ecommerce project called BookStore
 
 [Live Link](https://github.com/veereshbv04/BookStore)
-
-BookStore
-E-Commerce web app by name BookStore using react
 
 Introduction
 BookStore is an online platform to sell books built using react.
