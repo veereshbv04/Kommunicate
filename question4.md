@@ -1,4 +1,4 @@
-[]Question 4] Describe the best project you have worked on, including links if any.
+[Question 4] Describe the best project you have worked on, including links if any.
 
 
 Hi I am a computer science graduate from CMR Institute of Technology, Bengaluru.
@@ -54,7 +54,7 @@ I would like to explain on the Ecommerce project called BookStore
 
  ### QuizBytes
  # ![favicon-32x32](https://user-images.githubusercontent.com/55256099/173639590-54276489-81ed-4011-a83a-feec8c21f9c9.png) QuizBytes [Live Application](https://reactquizbytes.netlify.app/)
-[Code](https://github.com/veereshbv04/QuizBytes)
+# [Code](https://github.com/veereshbv04/QuizBytes)
 
 
 # Introduction
