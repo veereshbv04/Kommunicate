@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    margin-top: 2rem;
+}
+h1,h2,h3,h4{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --GRAY:#969494;
+    --PRIMARY_COLOR:orange;
+}
+
+
+#title{
+    color: #5553B7;
+    font-size:2rem;
+    font-weight: 900;
+    text-shadow: 2px 0 #5553B7;   
+    font-weight: 700!important;  
+  
+}
+button{
+    height: 36px;
+    font-size:small;
+    font-weight: bold;
+    color: white;
+    padding: 0 1.5rem 0 1.5rem;
+    border: none ;
+    border-radius: 5rem;
+    margin: 1.5rem 0;
+    margin-right: 0.8rem;
+}
+
+#btn-1{
+    background-color: #2DD35C;
+   
+}
+#btn-2{
+    color: #5553B7;
+    background-color:white ;
+    border: solid #5553B7 2px
+}
+
+.main{
+    height: 14rem;
+    padding-left: 10rem;
+    border: solid #2DD35C 2px;
+    padding-top:  2rem;
+    max-width: 70%;
+    border-top-right-radius: 15rem;
+    border-bottom-right-radius:1rem;
+    position: relative;
+}
+
+.right-div{
+    height: 8rem;
+    width: 65%;
+    background-color: #5553b73a;
+    position: absolute;
+    top: 6rem;
+    right: 0;
+    border-top-left-radius: 15rem;
+    border-bottom-left-radius:1rem;
+}
